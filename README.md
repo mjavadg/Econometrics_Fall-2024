@@ -4,10 +4,10 @@
 This repository includes Python tutorials and assignments to support the coursework for the Econometrics course at Allameh Tabataba’i University. It focuses on key econometric methods and applications for master's students in mathematical economics.
 
 ## Aiming to covering the following Topics:
-- Linear Regression
 - Linear Algebra
 - OLS Regression
 - Geometry of Least Squares
+- Multiple Regression Model
 - MLE Estimation
 - GLS Regression
 
